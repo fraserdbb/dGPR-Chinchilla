@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: >-
+  Novel Application of Stereotaxically Guided Dental
+  Germinative Photodynamic Regulation in Chinchilla lanigera
+  with Refractory Malocclusion.
+message: >-
+  If you use this work, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Daniel B. B.
+    family-names: Fraser
+repository-code: 'https://github.com/fraserdbb/dGPR-Chinchilla'
+doi: '10.5281/zenodo.18203469'
+license:
+  - CC-BY-SA-4.0 
+  - GPL-3.0
+keywords:
+  - Chinchilla
+  - Rodent
+  - Malocclusion
+  - Dental Disease
+  - Photodynamic Therapy
+version: '1.0'
+date-released: '2026-01-09'
+preferred-citation:
+  type: article
+  authors:
+  - family-names: Fraser
+    given-names: Daniel B. B.
+  title: 'Novel Application of Stereotaxically Guided Dental Germinative Photodynamic Regulation in Chinchilla lanigera with Refractory Malocclusion.'
+  doi: '10.5281/zenodo.18203469'
+  publisher: 
+    name: Zenodo
+  year: 2026
+  month: 1
